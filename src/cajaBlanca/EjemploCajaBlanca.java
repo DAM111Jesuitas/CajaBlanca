@@ -1,8 +1,18 @@
 package cajaBlanca;
 
 import java.util.Scanner;
+/**
+ * Codigo de ejemplo de un ejercicio de caja blanca
+ * @author dam111
+ * @version 1.0
+ * 
+ */
 
 public class EjemploCajaBlanca {
+	/**
+	 * 
+	 * @hiddens
+	 */
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
 		System.out.print("Introduce un numero mayor que 0:  ");
